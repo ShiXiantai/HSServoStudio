@@ -2,15 +2,15 @@
 "PulseSensor":
     {
         "LatestVerison":"V1.2",
-        "Url":"https://gitee.com/Sxiantai/HSServoStudio/raw/master/HSServoStudio_V1.0.exe",
+        "Url":"https://raw.githubusercontent.com/sxiantai/HSServoStudio/master/HSServoStudio_V1.2.exe",
         "UpdateTime":"2019-11-24",
-            "ReleaseNote":"\n1.Ìí¼Ó¼ì²é¸üĞÂËµÃ÷£¬°üº¬°æ±¾ºÅ£¬ÏÂÔØÁ´½Ó£¬¸üĞÂÊ±¼ä£¬¸üĞÂËµÃ÷.\n2.ÓÅ»¯¡°¹ØÓÚ¡±½çÃæ"
+            "ReleaseNote":"\n1.æ·»åŠ æ£€æŸ¥æ›´æ–°è¯´æ˜ï¼ŒåŒ…å«ç‰ˆæœ¬å·ï¼Œä¸‹è½½é“¾æ¥ï¼Œæ›´æ–°æ—¶é—´ï¼Œæ›´æ–°è¯´æ˜.\n2.ä¼˜åŒ–â€œå…³äºâ€ç•Œé¢"
     },
 "RGBContrl":
     {
         "LatestVerison":"V1.0",
-        "Url":"https://gitee.com/Sxiantai/HSServoStudio/raw/master/HSServoStudio_V1.0.exe",
+        "Url":"https://raw.githubusercontent.com/sxiantai/HSServoStudio/master/HSServoStudio_V1.2.exe",
         "UpdateTime":"2019-11-22",
-            "ReleaseNote":"°æ±¾ËµÃ÷"
+            "ReleaseNote":"ç‰ˆæœ¬è¯´æ˜"
     }
 }
